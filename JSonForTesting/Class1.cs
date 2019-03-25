@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BusinnessLayer
+namespace JSonForTesting
 {
     public class Class1
     {
