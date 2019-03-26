@@ -12,13 +12,6 @@ namespace XUnitTestBusinnesLayer
         [Fact]
         void TestFactory()
         {
-            var factory = new Factory()
-            {
-                Id = 10,
-                Name = "Onel"
-
-            };
-
         }
     }
 }
