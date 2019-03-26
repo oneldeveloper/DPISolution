@@ -5,6 +5,7 @@ using System.Text;
 
 namespace DPI.Model
 {
+    
     public class DpiComposer
     {
         public int DpiFatherId { get; set; }

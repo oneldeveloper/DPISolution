@@ -5,6 +5,7 @@ using System.Text;
 
 namespace DPI.Model
 {
+
     public class Dpi : IDpi
     {
         public int Id { get; set; }

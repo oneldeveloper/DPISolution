@@ -4,6 +4,7 @@ using System.Text;
 
 namespace DPI.Interfaces
 {
+    /* This is the basic address descriptor to be included in entities */
     public interface IAddress
     {
         string Address1 { get; set; }

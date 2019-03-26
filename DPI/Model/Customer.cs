@@ -7,8 +7,7 @@ namespace DPI.Model
 {
     class Customer : ICustomer
     {
-        public string Name { get; set; }
         public int Id { get; set; }
-
+        public string Name { get; set; }
     }
 }
